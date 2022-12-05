@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, #042940, #005C53);
+    margin: auto;
+    width: 600px;
+
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+    border-radius: 19px;
+    box-shadow: 20px 19px 19px #013a35b8;
+}
+h1, h2 , h3, h4 {
+    text-align: center;
+}
